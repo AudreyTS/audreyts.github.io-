@@ -1,0 +1,47 @@
+* Toulouse Metropole
+** Open Data
+**ouverture
+TODO Repondre au mail de M.Combert <2018-09-10 Mon 09:15> 
+
+SIG
+
+Marie Gombert
+
+RGPD
+- recherche 
+Open Data Soft : demander comment developpe le plu de Rennes? nouveau opdf
+
+
+
+France FIONO
+
+** Egalite Femme Homme
+TODO Recontacter Silvie FROIDEFOND pour l'ouverture <2018-09-10 Mon 09:15>
+
+** Process
+
+
+
+**Big Data 
+** Suivi de projet
+
+** Liens utiles
+*** Org mod 
+  la doc : https://orgmode.org/org.html#Tags
+  les outils : https://orgmode.org/worg/org-tools/index.html
+
+** Jekyll et Github
+https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
+custom : https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
+
+mooc machine learning : 
+http://www.centralesupelec.fr/fr/tag/centralesupelec-mooc-enseignement-en-ligne-machine-learning-bigdata-data-sciences
+https://www.youtube.com/watch?v=ndPCTpPAPyI&list=PLUj6neNCFMpKM26pN27wC30U12CiHAVQN
+https://fr.coursera.org/learn/machine-learning
+
+mine ML
+https://github.com/josephmisiti/awesome-machine-learning
+
+python 
+http://python-guide-pt-br.readthedocs.io/fr/latest/dev/env.html
+emcs python : https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
