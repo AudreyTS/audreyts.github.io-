@@ -45,3 +45,13 @@ https://github.com/josephmisiti/awesome-machine-learning
 python 
 http://python-guide-pt-br.readthedocs.io/fr/latest/dev/env.html
 emcs python : https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
+
+
+** liste des documents a lire (lecture active mindmud)
+le livre sur les meres
+livre sainte justine discipline (*2)
+avec lui c'est complique
+Machine learning for dummies
+les livres de Catherine Guenguen
+
+
