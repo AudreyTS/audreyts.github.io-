@@ -20,6 +20,9 @@ TODO Recontacter Silvie FROIDEFOND pour l'ouverture <2018-09-10 Mon 09:15>
 
 ** Process
 
+Fiche de mission
+Esther aupres de Georges
+
 
 
 **Big Data 
@@ -45,7 +48,10 @@ https://github.com/josephmisiti/awesome-machine-learning
 python 
 http://python-guide-pt-br.readthedocs.io/fr/latest/dev/env.html
 emcs python : https://www.emacswiki.org/emacs/PythonProgrammingInEmacs
+https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-explo-classif.pdf
 
+regarder clustering
+et classification hierarchique ascendante
 
 ** liste des documents a lire (lecture active mindmud)
 le livre sur les meres
