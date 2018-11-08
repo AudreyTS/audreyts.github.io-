@@ -1,5 +1,29 @@
 * Toulouse Metropole
 ** Open Data
+
+** Strategie
+* slides
+* rdv premiers pas
+* dashboard (outillage)
+
+** Esther
+*rdv RH
+*chrono error
+*suivi 
+* interface geo
+
+**indicator
+
+** OpenData/SIG
+synthese 
+rdv dans la foule
+
+
+**DMT
+
+
+
+
 **ouverture
 TODO Repondre au mail de M.Combert <2018-09-10 Mon 09:15> 
 
